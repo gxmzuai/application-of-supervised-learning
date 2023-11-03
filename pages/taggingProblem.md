@@ -6,7 +6,7 @@
 
 - 使用预训练的词性标注模型，结合NLTK库和Penn Treebank词性标签，对英文句子进行词性标注。
 
-![](https://vip2.loli.io/2023/10/30/ZFGkKmSrawTLfjo.webp)
+<a href="https://vip2.loli.io/2023/10/30/ZFGkKmSrawTLfjo.webp" target="_blank"><img src="https://vip2.loli.io/2023/10/30/ZFGkKmSrawTLfjo.webp" /></a>
 
 <center text-sm>Execution order diagram</center>
 

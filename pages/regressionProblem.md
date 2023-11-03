@@ -6,7 +6,7 @@
 
 - 使用LinearRegression模型，基于NumPy库进行数据准备和模型训练，用于预测股票的明天收盘价。
 
-![](https://vip2.loli.io/2023/10/30/9km7UarzN1sFTBX.webp)
+<a href="https://vip2.loli.io/2023/10/30/9km7UarzN1sFTBX.webp" target="_blank"><img src="https://vip2.loli.io/2023/10/30/9km7UarzN1sFTBX.webp" /></a>
 
 <center text-sm>Execution order diagram</center>
 
@@ -14,7 +14,7 @@
 
 <div m-6 text-center>
     <img src="https://vip2.loli.io/2023/10/30/hNLgCFaGrlfDVAt.webp" />
-    <center text-sm mt-2>Use a Univariate Linear Regression Model to Predict Tomorrow's Stock Closing Price.</center>
+    <center text-sm mt-2>Use a linear regression model to predict tomorrow's stock closing price.</center>
 </div>
 
 </div>
