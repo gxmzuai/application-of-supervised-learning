@@ -1,14 +1,14 @@
 ## 分类问题的应用
 
-<div grid="~ cols-2 gap-4 text-sm">
+<div grid="~ cols-2 gap-4">
 
-<div mt-3 text-base>
+<div mt-3 text-sm>
 
 - 使用预训练的ResNet-50模型（基于ImageNet数据集的子集）进行图片分类。
 
 ![](https://vip2.loli.io/2023/10/30/8VicrSF9yXNvOkG.webp)
 
-<center text-sm>Execution order diagram</center>
+<center>Execution order diagram</center>
 
 </div>
 
@@ -34,7 +34,7 @@ ImageNet数据集（韩枫老师在高级人工智能课上提及过）：
 
 ResNet(Residual Network)-50模型：
 
-这是深度学习领域中广受欢迎的卷积神经网络模型。该模型基于部分ImageNet数据集（包含1000个类别，包括不同种类的动物、植物、交通工具、日常用品等）训练。被广泛应用于图像分类。
+这是深度学习领域中广受欢迎的卷积神经网络模型。该模型基于部分ImageNet数据集（包含1000个类别，含有不同种类的动物、植物、交通工具、日常用品等）训练。被广泛应用于图像分类。
 
 PyTorch框架提供了预训练的ResNet-50模型。当我们用它来处理图像时，它会返回与图像内容相匹配的类别ID。然后，我们可以参考相应的类别表来获取该ID对应的类别名称。
 

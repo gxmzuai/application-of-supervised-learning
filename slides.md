@@ -4,7 +4,6 @@ background: https://vip2.loli.io/2023/10/29/byj7SnsmVQLOUHl.webp
 class: center
 highlighter: shiki
 transition: fade-out
-colorSchema: dark
 css: unocss
 src: ./pages/cover.md
 ---

@@ -1,14 +1,14 @@
 ## 回归问题的应用
 
-<div grid="~ cols-2 gap-4 text-sm">
+<div grid="~ cols-2 gap-4">
 
-<div mt-3 text-base>
+<div mt-3 text-sm>
 
 - 使用LinearRegression模型，基于NumPy库进行数据准备和模型训练，用于预测股票的明天收盘价。
 
 <a href="https://vip2.loli.io/2023/10/30/9km7UarzN1sFTBX.webp" target="_blank"><img src="https://vip2.loli.io/2023/10/30/9km7UarzN1sFTBX.webp" /></a>
 
-<center text-sm>Execution order diagram</center>
+<center>Execution order diagram</center>
 
 </div>
 

@@ -1,14 +1,14 @@
 ## 标注问题（分类问题的推广）的应用
 
-<div grid="~ cols-2 gap-4 text-sm">
+<div grid="~ cols-2 gap-4">
 
-<div mt-3 text-base>
+<div mt-3 text-sm>
 
 - 使用预训练的词性标注模型，结合NLTK库和Penn Treebank词性标签，对英文句子进行词性标注。
 
 <a href="https://vip2.loli.io/2023/10/30/ZFGkKmSrawTLfjo.webp" target="_blank"><img src="https://vip2.loli.io/2023/10/30/ZFGkKmSrawTLfjo.webp" /></a>
 
-<center text-sm>Execution order diagram</center>
+<center>Execution order diagram</center>
 
 </div>
 
