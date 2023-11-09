@@ -14,7 +14,7 @@
 
 <div flex flex-col justify-center items-center mx-12>
 
-<img src="https://vip2.loli.io/2023/10/30/FH2KNvELYRwnZTy.webp" />
+![](https://vip2.loli.io/2023/10/30/FH2KNvELYRwnZTy.webp)
 
 <center text-sm mt-2>Use ResNet-50 model to classify images.</center>
 
@@ -22,7 +22,9 @@
 
 </div>
 
-<!-- 监督学习在分类问题方面的应用有很多，以刚才流程图演示的图片分类为例。
+<!-- 
+
+监督学习在分类问题方面的应用有很多，以刚才流程图演示的图片分类为例。
 
 我们采用预训练的ResNet-50模型（基于ImageNet数据集的子集）进行图片分类。
 
@@ -34,8 +36,9 @@ ImageNet数据集（韩枫老师在高级人工智能课上提及过）：
 
 ResNet(Residual Network)-50模型：
 
-这是深度学习领域中广受欢迎的卷积神经网络模型。该模型基于部分ImageNet数据集（包含1000个类别，含有不同种类的动物、植物、交通工具、日常用品等）训练。被广泛应用于图像分类。
+这是深度学习领域中广受欢迎的卷积神经网络模型。该模型基于部分ImageNet数据集（包含1000个类别，涉及不同种类的动物、植物等）训练。被广泛应用于图像分类。
 
 PyTorch框架提供了预训练的ResNet-50模型。当我们用它来处理图像时，它会返回与图像内容相匹配的类别ID。然后，我们可以参考相应的类别表来获取该ID对应的类别名称。
 
-右侧代码的执行流程如左图所示。 -->
+右侧代码的执行流程如左图所示。
+ -->
