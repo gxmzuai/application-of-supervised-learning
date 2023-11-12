@@ -18,8 +18,7 @@ src: ./pages/toc.md
 <!-- time：20s -->
 
 ---
-layout: center
-class: text-center
+layout: default
 transition: fade-out
 src: ./pages/basic.md
 ---
